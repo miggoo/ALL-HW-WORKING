@@ -1,0 +1,618 @@
+	clouds	humidity	name	pressure	temp	temp_max	temp_min	wd	ws	City	lats	lngs
+0	0.0	31.0	Chaoyang	978.46	56.99	56.99	56.99	2.08	304.0	chaoyang	41	120
+1	0.0	65.0		1011.62	-0.21	-0.21	-0.21	1.63	60.0002	talnakh	70	92
+2	92.0	100.0	Vopnafjörður	1013.81	38.09	38.09	38.09	27.58	129.5	hofn	65	-13
+3	80.0	100.0		1030.42	79.17	79.17	79.17	18.75	57.0002	kapaa	21	-174
+4	12.0	100.0		1028.97	21.17	21.17	21.17	18.52	11.5002	lavrentiya	75	-167
+5	56.0	91.0		984.79	4.92	4.92	4.92	30.71	223.5	vaini	-70	-168
+6	44.0	100.0		1025.8	81.51	81.51	81.51	8.12	327.0	bandarbeyla	7	61
+7	92.0	96.0	Suchdol nad Luznici	948.31	48.12	48.12	48.12	18.75	301.0	chlum u trebone	48	14
+8	92.0	98.0		1020.78	49.29	49.29	49.29	19.53	236.0	mataura	-48	-153
+9	32.0	100.0		1011.78	44.79	44.79	44.79	31.94	235.5	arraial do cabo	-43	-26
+10	76.0	100.0		1027.1	78.41	78.41	78.41	17.74	114.0	victoria	-6	50
+11	1.0	93.0	Ness City	1024.0	46.4	46.4	46.4	4.7	120.0	hays	38	-99
+12	24.0	100.0		1028.72	74.67	74.67	74.67	9.24	109.0	voh	-23	162
+13	0.0	0.0		621.56	-54.03	-54.03	-54.03	7.56	109.5	busselton	-78	86
+14	48.0	100.0		1021.99	52.17	52.17	52.17	14.5	175.0	mahebourg	-38	76
+15	92.0	100.0		1031.88	74.31	74.31	74.31	17.18	80.0002	hilo	22	-141
+16	0.0	58.0	El Borma	1008.46	65.99	65.99	65.99	7.11	29.5002	duz	32	8
+17	0.0	32.0	Firuzabad	902.59	79.53	79.53	79.53	3.76	281.0	khormuj	28	52
+18	0.0	99.0		1024.91	78.36	78.36	78.36	17.18	95.0002	atuona	-4	-130
+19	32.0	66.0	Kasongo-Lunda	931.37	83.85	83.85	83.85	3.2	145.5	kasongo-lunda	-6	17
+20	88.0	84.0	Leshukonskoye	991.59	34.76	34.76	34.76	5.1	233.0	koslan	65	48
+21	92.0	100.0		1042.66	60.14	60.14	60.14	10.25	102.5	lagoa	46	-31
+22	80.0	96.0		1006.43	38.22	38.22	38.22	29.26	266.5	taolanaro	-48	52
+23	56.0	100.0		1010.0	43.67	43.67	43.67	17.29	357.5	sorland	69	7
+24	80.0	95.0		1016.32	31.56	31.56	31.56	28.81	223.0	ushuaia	-60	-58
+25	76.0	100.0	Mahanoro	1035.94	74.94	74.94	74.94	14.27	156.5	mahanoro	-20	49
+26	76.0	98.0		1030.02	65.13	65.13	65.13	23.33	311.0	jamestown	-29	-20
+27	0.0	0.0		659.9	-50.7	-50.7	-50.7	11.59	198.0	albany	-73	105
+28	24.0	100.0		1034.8	58.92	58.92	58.92	24.34	157.5	kiama	-37	155
+29	0.0	92.0	Baykalovsk	1013.16	22.16	22.16	22.16	15.17	140.5	karaul	71	81
+30	76.0	99.0		1017.45	84.03	84.03	84.03	22.1	357.5	airai	14	140
+31	44.0	100.0	Point Lay	1013.4	31.34	31.34	31.34	35.41	60.5002	nome	69	-165
+32	12.0	47.0		751.9	-21.81	-21.81	-21.81	21.21	37.5002	punta arenas	-80	-101
+33	0.0	100.0		1034.96	67.16	67.16	67.16	8.46	150.5	carnarvon	-26	97
+34	0.0	65.0	Cernado	937.53	51.09	51.09	51.09	2.08	111.5	verin	42	-7
+35	92.0	85.0		1015.91	35.52	35.52	35.52	29.15	339.5	cape town	-54	-8
+36	0.0	98.0		1028.07	78.54	78.54	78.54	14.05	114.0	mackay	-19	150
+37	80.0	74.0	Baykit	966.14	29.13	29.13	29.13	4.09	254.0	baykit	62	97
+38	0.0	60.0	Konstantinovka	981.46	40.79	40.79	40.79	6.67	287.0	beian	48	127
+39	36.0	67.0		775.08	-10.11	-10.11	-10.11	16.51	36.0002	bluff	-70	157
+40	0.0	100.0		1035.86	57.48	57.48	57.48	19.64	178.5	ulladulla	-39	155
+41	76.0	100.0		1004.81	26.43	26.43	26.43	17.85	265.0	hobart	-62	140
+42	100.0	81.0	Znamenskoye	1011.78	40.56	40.56	40.56	8.57	219.5	sedelnikovo	57	75
+43	12.0	100.0		1023.45	83.81	83.81	83.81	9.69	125.0	hambantota	0	85
+44	12.0	75.0	Sao Borja	1018.75	64.23	64.23	64.23	13.49	106.0	sao borja	-28	-55
+45	68.0	100.0		1031.4	30.21	30.21	30.21	19.08	54.0002	longyearbyen	81	20
+46	92.0	99.0	Tỉnh Hà Giang	944.01	66.3	66.3	66.3	2.08	186.0	ha giang	22	105
+47	76.0	74.0	Iqaluit	984.3	5.19	5.19	5.19	3.09	118.0	iqaluit	64	-69
+48	0.0	100.0		1048.66	55.91	55.91	55.91	9.13	62.0002	dingle	49	-11
+49	0.0	93.0	Fond-du-Lac	971.01	27.92	27.92	27.92	11.48	98.0002	la ronge	59	-106
+50	0.0	93.0	Coihaique	1016.0	32.79	35.6	30.2	3.36	10.0	coihaique	-45	-72
+51	0.0	99.0	Nhulunbuy	1023.94	83.76	83.76	83.76	13.15	75.0002	nhulunbuy	-11	136
+52	68.0	88.0		1039.67	13.74	13.74	13.74	14.61	127.5	barrow	86	-150
+53	92.0	93.0		1032.29	51.18	51.18	51.18	31.38	248.5	vestmannaeyjar	59	-17
+54	76.0	100.0		1036.34	64.01	64.01	64.01	10.69	82.0002	russell	-31	177
+55	80.0	95.0		1034.32	16.04	16.04	16.04	5.44	82.0002	mys shmidta	83	-177
+56	12.0	100.0		1024.67	83.13	83.13	83.13	5.55	345.0	kavaratti	8	67
+57	76.0	100.0		1029.29	71.61	71.61	71.61	17.52	102.0	georgetown	-12	-14
+58	48.0	100.0	Kugaaruk	1036.5	-2.01	-2.01	-2.01	9.24	293.5	thompson	68	-89
+59	80.0	100.0		1030.67	73.5	73.5	73.5	17.29	100.0	bengkulu	-18	87
+60	68.0	81.0		1041.29	10.68	10.68	10.68	9.46	57.5002	saskylakh	89	119
+61	88.0	94.0		1024.18	26.43	26.43	26.43	12.71	132.0	aklavik	75	-140
+62	76.0	100.0		1006.83	20.49	20.49	20.49	5.55	254.5	port alfred	-59	41
+63	12.0	100.0		1031.8	19.14	19.14	19.14	35.41	357.5	illoqqortoormiut	74	-19
+64	90.0	87.0	Sterling	983.0	49.73	53.6	42.8	8.05	130.0	sterling	60	-150
+65	0.0	22.0	Republic of South Africa	876.08	77.28	77.28	77.28	4.43	204.0	colesberg	-30	25
+66	48.0	99.0		1004.65	3.66	3.66	3.66	18.63	283.5	mar del plata	-66	-23
+67	92.0	100.0	Havoysund	1007.73	39.93	39.93	39.93	8.79	97.5002	hammerfest	72	22
+68	44.0	96.0		1025.24	18.15	18.15	18.15	15.84	35.0002	tiksi	81	128
+69	0.0	100.0		1032.53	60.59	60.59	60.59	13.49	356.0	fortuna	39	-126
+70	88.0	100.0		1021.99	82.91	82.91	82.91	8.57	228.5	kavieng	8	156
+71	20.0	87.0	Montara	1016.0	55.4	55.4	55.4	10.29	270.0	pacifica	37	-123
+72	0.0	98.0	Keti Bandar	1024.91	84.93	84.93	84.93	7.78	263.0	keti bandar	23	66
+73	68.0	100.0		1036.1	63.92	63.92	63.92	11.81	121.0	avarua	-28	-163
+74	32.0	100.0		1033.91	63.29	63.29	63.29	19.86	183.5	saint-philippe	-31	60
+75	64.0	100.0	Yekusha	1003.19	35.79	35.79	35.79	9.13	256.5	naryan-mar	68	52
+76	8.0	92.0	Tulum	1026.05	71.52	71.52	71.52	2.08	354.5	tulum	20	-87
+77	24.0	100.0		1031.15	79.04	79.04	79.04	13.49	130.5	sentyabrskiy	28	165
+78	36.0	74.0	Itaituba	1013.81	80.88	80.88	80.88	4.21	90.5002	itaituba	-3	-56
+79	40.0	86.0	Vranje	1011.0	37.4	37.4	37.4	2.98	243.5	vranje	42	21
+80	0.0	100.0		1021.99	82.64	82.64	82.64	14.16	287.0	broome	-15	123
+81	64.0	100.0		990.62	33.27	33.27	33.27	21.32	278.0	rikitea	-58	-131
+82	88.0	96.0		1024.59	49.38	49.38	49.38	11.03	42.0002	castro	-43	-93
+83	92.0	86.0	Municipio Tucupita	1023.78	80.52	80.52	80.52	4.99	122.5	tucupita	9	-61
+84	12.0	13.0	Commonwealth of Australia	998.73	92.49	92.49	92.49	5.99	55.0002	alice springs	-25	135
+85	76.0	100.0		1025.72	80.79	80.79	80.79	8.57	79.5002	trairi	5	-33
+86	20.0	82.0	Magnolia	1019.0	62.15	64.4	60.8	8.05	70.0	tomball	30	-95
+87	24.0	100.0		1028.48	72.96	72.96	72.96	22.1	233.0	saint george	36	-65
+88	92.0	100.0		1033.59	61.26	61.26	61.26	5.55	202.5	coquimbo	-27	-79
+89	76.0	100.0		1013.08	36.02	36.02	36.02	19.53	86.0002	belushya guba	74	46
+90	64.0	100.0		1038.21	29.94	29.94	29.94	16.84	248.0	pangnirtung	60	-62
+91	0.0	100.0	Burji	962.49	76.56	76.56	76.56	6.22	171.0	moyale	2	39
+92	0.0	61.0	Sozaq	1016.24	55.41	55.41	55.41	12.71	108.0	zhanakorgan	45	67
+93	56.0	99.0	Kuito	847.39	65.76	65.76	65.76	11.03	115.5	kuito	-12	16
+94	20.0	62.0		706.67	-40.71	-40.71	-40.71	10.69	38.5002	hermanus	-88	3
+95	64.0	100.0		1025.32	76.29	76.29	76.29	12.15	170.5	acapulco	3	-106
+96	0.0	100.0		1032.05	59.24	59.24	59.24	16.51	304.0	ryotsu	40	137
+97	88.0	100.0	Medvezhyegorsk	991.92	37.14	37.14	37.14	3.65	89.0002	medvezhyegorsk	63	34
+98	75.0	83.0	Port-Gentil	1012.0	80.6	80.6	80.6	10.29	200.0	port-gentil	0	8
+99	64.0	100.0		1025.07	79.17	79.17	79.17	11.48	172.5	san patricio	7	-112
+100										gao	16	0
+101										hithadhoo	-1	68
+102										nizhneyansk	81	134
+103										vila praia de ancora	41	-10
+104										turayf	32	39
+105										ushtobe	46	78
+106										asau	-15	179
+107										kiunga	-5	140
+108										namibe	-14	12
+109										masindi	1	31
+110										gigmoto	15	126
+111										cacu	-18	-51
+112										ndele	7	20
+113										katsuura	24	143
+114										sulurpeta	13	80
+115										vila	-17	170
+116										galesong	-6	118
+117										troitskoye	46	44
+118										yaan	29	102
+119										jennings	29	-92
+120										itarema	0	-38
+121										neepawa	50	-98
+122										hami	39	92
+123										dongsheng	42	108
+124										seoul	37	126
+125										vestmanna	69	-8
+126										evensk	62	159
+127										trelleborg	55	13
+128										cidreira	-50	-30
+129										prainha	0	-54
+130										berbera	11	45
+131										tumannyy	85	39
+132										jalu	26	22
+133										yulara	-24	128
+134										huarmey	-14	-87
+135										carquefou	47	-1
+136										puerto ayora	-17	-94
+137										kaitangata	-60	178
+138										dikson	86	86
+139										mbuji-mayi	-5	23
+140										hun	30	15
+141										sao felix do xingu	-5	-53
+142										atlixco	18	-98
+143										aden	11	45
+144										kodiak	54	-150
+145										mullaitivu	10	82
+146										nikolskoye	55	164
+147										marsaxlokk	34	16
+148										torbay	46	-50
+149										marzuq	23	12
+150										inhambane	-28	37
+151										vicuna	-30	-70
+152										swidnik	51	22
+153										lazaro cardenas	10	-105
+154										lorengau	2	147
+155										awjilah	29	20
+156										karratha	-16	109
+157										guder	8	37
+158										hovd	44	99
+159										shache	37	78
+160										vreed en hoop	7	-59
+161										esperance	-50	125
+162										maxixe	-23	34
+163										tuktoyaktuk	88	-124
+164										tsihombe	-40	48
+165										waddan	26	17
+166										cervo	44	-7
+167										ornskoldsvik	63	19
+168										oranjestad	14	-70
+169										cayenne	14	-43
+170										bemidji	48	-95
+171										sao joao da barra	-29	-27
+172										vung tau	6	109
+173										tasiilaq	83	-36
+174										peniche	41	-12
+175										bredasdorp	-88	18
+176										salalah	13	61
+177										alekseyevsk	59	108
+178										bria	6	22
+179										leningradskiy	81	176
+180										sao filipe	2	-24
+181										port elizabeth	-76	31
+182										east london	-46	38
+183										fairbanks	76	-144
+184										karauzyak	44	60
+185										bilibino	71	165
+186										yellowknife	79	-107
+187										attawapiskat	61	-79
+188										maragogi	-13	-27
+189										doha	29	46
+190										bambous virieux	-24	71
+191										hervey bay	-23	157
+192										chokurdakh	79	142
+193										clyde river	72	-62
+194										maryville	40	-94
+195										vila velha	-20	-38
+196										urumqi	44	88
+197										fulton	38	-91
+198										amderma	83	63
+199										xining	34	99
+200										port blair	13	90
+201										ilulissat	80	-42
+202										palmer	56	-145
+203										yushala	57	64
+204										skalistyy	71	33
+205										sola	-14	172
+206										iranshahr	26	60
+207										longlac	54	-87
+208										waingapu	-9	120
+209										bluefield	37	-81
+210										iwaki	37	141
+211										kruisfontein	-34	24
+212										sioux lookout	52	-89
+213										pevek	87	170
+214										hailar	49	119
+215										nicholasville	37	-84
+216										provideniya	56	-174
+217										ambilobe	-7	48
+218										brae	64	-1
+219										qaanaaq	82	-74
+220										dedza	-14	34
+221										bur gabo	-4	46
+222										srednekolymsk	69	155
+223										chuy	-68	-19
+224										san martin	8	-73
+225										beloha	-35	41
+226										aasiaat	70	-53
+227										salinopolis	3	-46
+228										ribeira grande	28	-38
+229										linxia	33	100
+230										khatanga	83	95
+231										kamenskoye	61	168
+232										sitka	56	-135
+233										mizdah	31	12
+234										lebu	-29	-89
+235										zhigansk	70	120
+236										dzilam gonzalez	22	-88
+237										port-cartier	55	-69
+238										hamilton	25	-60
+239										juifang	25	122
+240										cabo san lucas	12	-122
+241										vao	-25	174
+242										pareora	-44	171
+243										mednogorskiy	43	41
+244										kyzyl-suu	40	78
+245										villa rica	-10	-75
+246										new norfolk	-88	128
+247										nouadhibou	20	-19
+248										menongue	-15	17
+249										vardo	82	35
+250										nishihara	24	129
+251										prado	-17	-36
+252										nguiu	-8	129
+253										rafai	6	23
+254										danville	36	-79
+255										lata	-12	165
+256										garden city	43	-115
+257										jiangyou	31	104
+258										arkhangelsk	65	40
+259										rocha	-45	-44
+260										puksoozero	62	40
+261										san jose	7	-92
+262										nizhnyaya poyma	55	97
+263										vaitupu	3	-174
+264										souillac	-57	76
+265										grao mogol	-16	-42
+266										baoding	39	114
+267										alcudia	40	2
+268										emerald	-25	145
+269										butaritari	2	168
+270										yabrud	34	36
+271										sosua	19	-70
+272										mongo	12	19
+273										ahipara	-32	170
+274										elko	39	-115
+275										ojinaga	29	-103
+276										touros	-1	-33
+277										mrirt	30	-3
+278										kyabe	10	19
+279										margate	-43	42
+280										ketchikan	48	-136
+281										saleaula	-3	-173
+282										norman wells	70	-124
+283										westport	-36	163
+284										scarborough	10	-59
+285										santa vitoria do palmar	-34	-50
+286										kegayli	42	58
+287										san cristobal	-4	-86
+288										ust-karsk	52	119
+289										maniitsoq	65	-52
+290										krasnoselkup	64	84
+291										sandanski	41	23
+292										dalinghe	41	121
+293										anadyr	63	173
+294										bathsheba	19	-48
+295										riberalta	-12	-67
+296										codrington	18	-61
+297										cap malheureux	-16	55
+298										amahai	-4	129
+299										arlit	17	7
+300										valparaiso	-32	-72
+301										san rafael del sur	11	-86
+302										hasaki	34	148
+303										atar	19	-14
+304										padang	-5	90
+305										okhotsk	60	144
+306										manpur	22	75
+307										chignahuapan	19	-98
+308										thinadhoo	0	69
+309										paracatu	-17	-47
+310										gamba	-3	9
+311										dubti	12	40
+312										post falls	47	-116
+313										evans	40	-104
+314										scottsbluff	41	-102
+315										shunyi	40	117
+316										urucui	-7	-44
+317										kununurra	-15	127
+318										bressuire	46	0
+319										nokaneng	-19	21
+320										grand-santi	3	-54
+321										shimsk	58	30
+322										kachug	54	106
+323										sistranda	67	6
+324										el dorado	3	-72
+325										alta floresta	-8	-54
+326										geraldton	-28	116
+327										kingaroy	-25	151
+328										axim	2	-2
+329										erenhot	44	112
+330										diamantino	-12	-55
+331										tiznit	27	-7
+332										tornio	66	23
+333										kirksville	40	-92
+334										barentsburg	88	1
+335										luwuk	-2	123
+336										ponta do sol	17	-35
+337										guanica	17	-67
+338										alikalia	9	-11
+339										praia	11	-23
+340										iberia	-10	-70
+341										isangel	-16	173
+342										ranong	9	98
+343										xinzhou	38	113
+344										bani walid	30	14
+345										pyay	18	94
+346										terrace	54	-128
+347										namie	36	144
+348										azimur	33	-9
+349										ancud	-41	-93
+350										kpandae	7	0
+351										bocas del toro	9	-81
+352										teguise	30	-14
+353										olafsvik	64	-26
+354										katangli	51	145
+355										lubao	-4	25
+356										babusnica	42	22
+357										jiroft	28	58
+358										mount gambier	-51	129
+359										paamiut	61	-51
+360										gilgit	36	73
+361										lompoc	23	-127
+362										mola di bari	41	17
+363										oostburg	51	3
+364										maningrida	-9	134
+365										kahului	33	-149
+366										orlik	52	100
+367										alberton	47	-63
+368										maues	-3	-57
+369										gangotri	31	79
+370										honiara	-12	158
+371										ostersund	62	14
+372										yatou	37	123
+373										buala	-4	160
+374										jacareacanga	-6	-56
+375										tuatapere	-52	162
+376										komsomolskiy	78	173
+377										rio verde de mato grosso	-19	-55
+378										finnsnes	70	17
+379										staraya toropa	56	31
+380										osmena	9	120
+381										los llanos de aridane	26	-21
+382										narsaq	88	-63
+383										upernavik	84	-45
+384										warrington	28	-87
+385										zemio	6	25
+386										karkaralinsk	49	76
+387										olymskiy	51	38
+388										alfredo baquerizo moreno	-1	-79
+389										severo-kurilsk	43	159
+390										pisco	-26	-100
+391										nisia floresta	-4	-31
+392										guerrero negro	16	-126
+393										faanui	-14	-150
+394										merauke	-7	139
+395										springbok	-29	17
+396										palabuhanratu	-15	103
+397										port macquarie	-31	155
+398										kalabo	-14	21
+399										varna	53	61
+400										arman	58	148
+401										sapa	3	121
+402										reconquista	-29	-60
+403										metu	8	35
+404										lisala	1	21
+405										sovetskaya gavan	48	140
+406										cherskiy	76	159
+407										alofi	-20	-168
+408										san quintin	18	-130
+409										aliaga	39	26
+410										kerman	30	58
+411										camacupa	-10	18
+412										fort morgan	40	-103
+413										castelo do piaui	-4	-41
+414										hermiston	45	-119
+415										chartres	48	1
+416										abrau-dyurso	43	37
+417										ajdabiya	30	20
+418										pouembout	-22	163
+419										samusu	-7	-161
+420										port shepstone	-31	31
+421										rize	42	40
+422										mizan teferi	5	34
+423										lilongwe	-14	33
+424										bethel	55	-166
+425										ust-omchug	60	147
+426										houma	27	-90
+427										payakumbuh	0	100
+428										avera	-32	-155
+429										mbanza-ngungu	-5	14
+430										vila franca do campo	40	-18
+431										achisay	43	69
+432										mount isa	-17	138
+433										graaff-reinet	-32	24
+434										san ramon	-12	-63
+435										meulaboh	-1	88
+436										strezhevoy	61	77
+437										vostok	47	148
+438										kamenka	68	42
+439										flinders	-29	134
+440										baruun-urt	46	114
+441										sol-iletsk	49	54
+442										along	29	94
+443										onega	65	38
+444										zambezi	-13	21
+445										sinjah	13	33
+446										ilhabela	-26	-44
+447										nosy varika	-21	50
+448										jiaxing	30	120
+449										auki	-3	163
+450										japura	0	-71
+451										muros	43	-14
+452										maceio	-17	-27
+453										resistencia	-27	-59
+454										mitsamiouli	-9	44
+455										makung	22	119
+456										lucea	18	-79
+457										tsentralnyy	54	87
+458										ingham	-18	146
+459										kalaleh	37	56
+460										necochea	-44	-55
+461										richards bay	-29	35
+462										chardara	40	67
+463										laguna	-42	-32
+464										curitibanos	-27	-50
+465										inirida	4	-66
+466										calafell	41	1
+467										kedougou	12	-11
+468										matam	16	-12
+469										cogoleto	44	8
+470										roald	67	2
+471										davila	19	117
+472										barbar	17	34
+473										atherton	-17	143
+474										dunedin	-50	177
+475										saint-pierre	40	-55
+476										noumea	-24	163
+477										muravlenko	63	71
+478										kodinsk	57	99
+479										veraval	17	69
+480										truro	50	-5
+481										whitianga	-32	178
+482										ixtapa	0	-109
+483										obo	6	26
+484										mildura	-32	143
+485										yelizovo	53	157
+486										salsk	46	41
+487										ust-ordynskiy	52	105
+488										mitchell	43	-98
+489										alakurtti	66	30
+490										doctor pedro p. pena	-22	-62
+491										periceiu	47	22
+492										pechora	64	57
+493										payyannur	11	74
+494										reitz	-27	28
+495										hojai	25	92
+496										zihuatanejo	17	-101
+497										uvira	-4	28
+498										byron bay	-29	159
+499										ugoofaaru	5	62
+500										matagami	50	-77
+501										empalme	28	-110
+502										matata	-36	177
+503										sambava	-11	53
+504										goderich	0	-23
+505										bonavista	49	-51
+506										windsor	38	-122
+507										senekal	-28	27
+508										antofagasta	-23	-75
+509										husavik	66	-16
+510										nizwa	22	57
+511										zhangjiakou	41	115
+512										esperantinopolis	-4	-44
+513										dakar	16	-19
+514										batagay-alyta	69	131
+515										gharghoda	22	83
+516										adrar	28	-2
+517										imbituba	-29	-45
+518										vanimo	2	143
+519										port hardy	45	-131
+520										grand river south east	-25	79
+521										bondo	3	23
+522										pervomayskoye	57	86
+523										snezhnogorsk	69	33
+524										zlatoustovsk	52	133
+525										knysna	-35	22
+526										vazante	-18	-47
+527										pitimbu	-8	-24
+528										keuruu	62	24
+529										bardiyah	31	25
+530										dagda	56	27
+531										falmouth	49	-5
+532										gladstone	-23	151
+533										turochak	52	87
+534										luderitz	-32	8
+535										carauari	-5	-67
+536										katobu	-5	122
+537										tarudant	28	-6
+538										kommunar	54	88
+539										havre-saint-pierre	53	-63
+540										dawlatabad	36	64
+541										kropotkin	58	116
+542										nampula	-15	38
+543										kalispell	48	-115
+544										rosarito	32	-117
+545										nuevo casas grandes	30	-107
+546										svetlogorsk	66	93
+547										manbij	35	38
+548										mehamn	83	27
+549										sangar	65	128
+550										kieta	-1	158
+551										puerto el triunfo	10	-89
+552										najran	18	48
+553										bulgan	47	102
+554										kushmurun	50	63
+555										agirish	61	63
+556										warangal	18	79
+557										almenevo	55	63
+558										lermontovka	47	134
+559										narang	31	74
+560										bundaberg	-21	155
+561										tabiauea	-1	169
+562										casper	43	-106
+563										nanortalik	56	-38
+564										kota belud	7	115
+565										synya	64	59
+566										mayo	64	-136
+567										klaksvik	77	-7
+568										sur	19	62
+569										caravelas	-17	-38
+570										khilok	51	111
+571										kargasok	60	79
+572										saint-leu	-21	52
+573										columbus	41	-97
+574										saldanha	-39	-1
+575										tura	66	98
+576										bochnia	50	20
+577										raudeberg	63	3
+578										naze	25	131
+579										biak	1	139
+580										helong	41	129
+581										half moon bay	29	-134
+582										mormugao	14	71
+583										kaseda	30	128
+584										show low	34	-109
+585										mengcheng	33	116
+586										misratah	31	14
+587										iquitos	-2	-72
+588										upington	-27	21
+589										migori	-1	34
+590										bahia blanca	-38	-62
+591										morant bay	15	-75
+592										cabedelo	-4	-25
+593										puerto del rosario	26	-11
+594										sarangani	4	125
+595										mwense	-10	28
+596										asuncion	-24	-58
+597										dali	26	100
+598										inuvik	65	-132
+599										mae sai	21	99
+600										pacific grove	28	-134
+601										galiwinku	-10	135
+602										onguday	50	86
+603										artyk	63	144
+604										wewak	-2	144
+605										north bend	43	-130
+606										ewa beach	16	-159
+607										tabou	1	-6
+608										saint-joseph	-25	54
+609										santa fe	21	-83
+610										marsh harbour	27	-75
+611										chor	25	70
+612										union de tula	20	-104
+613										gravdal	71	11
+614										malartic	47	-77
+615										porto belo	-27	-46
+616										shubarkuduk	48	55
