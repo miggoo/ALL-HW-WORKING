@@ -1,1 +1,1 @@
-Procssing city number [41],at longitude-8.001738620987027,latitude2.303838855881537
+Processing city number [1],at longitude176.36072872852264,latitude-48.99370537894066Processing city number [2],at longitude158.86077622913433,latitude-44.75389607505826Processing city number [3],at longitude153.16105211246997,latitude-46.066561812453905Processing city number [4],at longitude-116.78454758180902,latitude-35.72906597032252Processing city number [5],at longitude-153.73932956671962,latitude-6.110384819896026
