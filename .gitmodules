@@ -1,0 +1,9 @@
+[submodule "Week-11-HW"]
+	path = Week-11-HW
+	url = https://github.com/miggoo/Week-11-HW
+[submodule "SQL-HW"]
+	path = SQL-HW
+	url = https://github.com/miggoo/SQL-HW
+[submodule "WK-12"]
+	path = WK-12
+	url = https://github.com/miggoo/WK-12
